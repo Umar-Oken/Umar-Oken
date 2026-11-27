@@ -1,9 +1,6 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:071c40,100:00b9e8&height=200&section=header&text=Muhammad%20Umar&fontSize=45&fontColor=ffffff"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:071c40,100:00b9e8&height=200&section=header&text=Muhammad%20Umar&fontSize=45&fontColor=ffffff&fontAlignY=36&desc=IT%20%26%20AI%20Enthusiast&descSize=22&descAlignY=56"/>
 </p>
-
-
-
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=25&duration=3000&pause=998&color=00D9FF&width=600&height=70&lines=Welcome+to+my+GitHub!;IT+%26+AI+Enthusiast;Python+%26+Django+Developer;Backend+Developer;Telegram+Bot+Developer;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
