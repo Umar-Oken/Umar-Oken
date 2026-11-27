@@ -1,5 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:071c40,100:00b9e8&height=200&section=header&text=Muhammad%20Umar&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=IT%20%26%20AI%20Enthusiast&descAlignY=65"/>
 
+
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=25&duration=3000&pause=998&color=00D9FF&width=600&height=70&lines=Welcome+to+my+GitHub!;IT+%26+AI+Enthusiast;Python+%26+Django+Developer;Backend+Developer;Telegram+Bot+Developer;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 👨‍💻 About Me<br><br>Hi! I'm an IT & AI Enthusiast from Uzbekistan 🇺🇿<br><br>I'm a student at School No. 10 and currently studying programming at [NeoAvlod](https://t.me/neoavlod_uz).<br><br>I'm passionate about backend development, artificial intelligence, and building modern web applications.<br><br>- 🐍 Python, Django & Django REST Framework (DRF)<br>- 🤖 Telegram Bot Development<br>- 🧠 Artificial Intelligence Development<br>- 🌐 Web Development & REST API<br>- 🗄️ PostgreSQL & Database Management<br>- 🐳 Docker<br>- 🐧 Linux<br>- 🎓 Currently studying at NeoAvlod<br>- 🚀 Always learning new technologies and improving my programming skills<br><br>My goal is to become a professional Software Engineer and AI Developer, building innovative and useful solutions for the future.
