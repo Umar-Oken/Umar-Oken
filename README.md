@@ -1,4 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:071c40,100:00b9e8&height=200&section=header&text=Muhammad%20Umar&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=IT%20%26%20AI%20Enthusiast&descAlignY=65"/>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:071c40,100:00b9e8&height=200&section=header&text=Muhammad%20Umar&fontSize=45&fontColor=ffffff"/>
+</p>
 
 
 
